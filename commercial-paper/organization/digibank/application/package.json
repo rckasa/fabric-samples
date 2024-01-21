@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fabric-network": "~1.4.0",
+    "fabric-network": "~2.2.1",
     "fabric-client": "~1.4.0",
     "js-yaml": "^3.12.0"
   },
